@@ -15,7 +15,9 @@ class Game extends Phaser.Scene {
     this.add.image(400, 300, 'logo');
   }
 
-  update(time, delta) {}
+  update(time, delta) {
+
+  }
 }
 
 export default Game;
